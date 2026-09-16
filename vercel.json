@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://school-server-production-41f8.up.railway.app/$1"
+      "destination": "https://backend-farmplate-production.up.railway.app/$1"
     }
   ]
 }
