@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://backend-farmplate-production.up.railway.app/$1"
+      "destination": "https://farm2plate-e0fd93b7c8ed.herokuapp.com/$1"
     }
   ]
 }
